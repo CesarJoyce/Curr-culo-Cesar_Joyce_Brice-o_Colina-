@@ -1,0 +1,24 @@
+---
+title: 
+output:output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+---
+
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
+### ¡Bienvenidos a mi espacio profesional en línea! Aquí podrán encontrar un resumen detallado de mi trayectoria, habilidades y logros. Estoy comprometido con la excelencia en todo lo que hago, y espero que disfruten explorando mi perfil. ¡Gracias por visitar!
+
+![](IMA/LOGOS LOGOS.png)
+![](IMA/ccontacto.png)
+
+|   Celular   |                                     Email                                      |      Domicilio       |                             RRSS                             |
+|:---------------:|:---------------:|:--------------------:|:---------------:|
+| 11 27557211 | [cesar.joyce.briceno\@gmail.com](mailto:cesar.joyce.briceno@gmail.com){.email} | CABA - Villa Urquiza | @cesar.joyce / [César Briceño LinkedIn](www.linkedin.com/in/césar-briceño) |
+
+------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+---
+title: 
+output:output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+---
+
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
+En mi viaje profesional, he tenido la oportunidad de canalizar mi pasión por la innovación y la creatividad a través de diversos proyectos propios. Estos emprendimientos no solo han sido un espacio para el crecimiento personal y profesional, sino también una plataforma para colaborar con equipos diversos y enfrentar con determinación los retos del mundo empresarial.
+
+
+![](IMA/asia.png)
+
+### **Co-Fundador & Co-Productor**      
+#### **ASIA**  
+##### <img src="IMA/argentina.png" width="22" height="22"> Buenos Aires
+##### Ago. 2023 - Presente
+
+ASIA es un proyecto que actualmente desarrollo junto a mi hermano [**Gabriel Briceño**](https://www.linkedin.com/in/gabriel-alejandro-brice%C3%B1o-colina-8a5458201/) como una iniciativa extrajornada. Fundado en la ciudad de Buenos Aires a finales del año 2023. Abraza la visión de convertirse en un destacado referente en la organización y producción de contenido audiovisual de artistas en la escena de la música electrónica.
+
+Mis responsabilidades:
+
+- Participo en la organización preproducción del material audivisual.
+
+- Colaboro en la creación y desarrollo de conceptos creativos para los proyectos audiovisuales.
+
+- Gestiono los recursos financieros, humanos y técnicos disponibles para garantizar que el proyecto se complete dentro del presupuesto y el cronograma establecido.
+
+¡Explora más sobre nuestro emocionante proyecto en nuestro canal de YouTube y no te pierdas la oportunidad de ser parte de nuestra comunidad y suscríbete ahora para estar al tanto de nuestras últimas actualizaciones y contenido exclusivo! [**ASIA_Presents**](https://www.youtube.com/@Asiapresents) 
+
+
+![](IMA/orfe.png)
+
+
+### **Co-Fundador & Representante Comercial**      
+#### **ORFE**  
+##### <img src="IMA/venezuela.png" width="22" height="22"> Caracas
+##### 2016 - 2021
+
+ORFE es un proyecto que desarrollé junto a mi hermano [**Gabriel Briceño**](https://www.linkedin.com/in/gabriel-alejandro-brice%C3%B1o-colina-8a5458201/) y amigo [**Joan Ruiz**](https://www.instagram.com/joantribu/) destinado al diseño, confección y comercialización de prendas de vestir. Fundado en la ciudad de Turmero en Venezuela. Actualmente la marca sigue sus operaciones en la República de Chile.
+
+Mis responsabilidades dentro del proyecto fueron:
+
+
+- Desarrollo e implementación de estrategias para el cumplimiento de los objetivos organizacionales y comerciales. 
+ 
+- Gestión de proveedores, en la coordinación de materiales, insumos y servicios necesarios para la producción de prendas.
+
+- Planificación de actividades de manufactura, marketing, administrativas y comerciales. 
+
+- Prospección, visita y seguimiento de clientes (B2C y B2B)
+

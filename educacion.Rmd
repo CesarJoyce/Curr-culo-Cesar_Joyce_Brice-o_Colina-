@@ -1,0 +1,57 @@
+---
+title: 
+output:output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+---
+
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
+
+### **Diplomatura en Gestión de Tecnología para el Desarrollo Convencional y No Convencional de Hidrocarburos**      
+#### **Universidad Nacional de la Patagonia Austral**  
+##### <img src="IMA/argentina.png" width="22" height="22"> Caleta Olivia
+##### Nov. 2023 - Presente
+
+
+
+### **Especialización en Organización de Empresas**      
+#### **Universidad Central de Venezuela**  
+##### <img src="IMA/venezuela.png" width="22" height="22"> Caracas
+##### 2018 
+
+
+
+- *Faltando desarrollo y presentación de Trabajo Especial de Grado (Tesis).*
+
+
+### **Diplomatura en Tecnología Renovable Biogás**      
+#### **Instituto de Biogás del Ministerio de Agricultura y Asuntos Rurales (BIOMA)**  
+##### <img src="IMA/china.png" width="22" height="22"> Chengdu
+##### 2017
+
+
+### **Estudios Avanzados en Prevención de Sustancias Químicas Controladas**      
+#### **Oficina Nacional Antidrogas de Venezuela**  
+##### <img src="IMA/venezuela.png" width="22" height="22"> Caracas
+##### 2015
+
+### **Ingeniería de Petróleo**      
+#### **Universidad Central de Venezuela**  
+##### <img src="IMA/venezuela.png" width="22" height="22"> Caracas
+##### 2012
+
+![](IMA/estudios.png)
+
+
+
+
+
+
+
+
